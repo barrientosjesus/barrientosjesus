@@ -18,6 +18,7 @@
 </p>
 <h3>My latest projects</h3>
 <ul>
+  <li><a href="https://github.com/barrientosjesus/qwizard"><b>A trivia/quiz web app using socketio</b></a><br/><i>Create your own, or play other player made quizzes.</i></li>
   <li><a href="https://github.com/barrientosjesus/5e-character-creator"><b>This is a web app that allows you quickly create D&D Characters. </b></a><br/><i>Follows Creative Commons guidelines</i></li>
   <li><a href="https://github.com/barrientosjesus/battleship"><b>Battleship with a Star Wars twist.</b></b></a><br/><i>Your favorite childhood game but redesigned to pay homage to Star Wars.</i></li>
 </ul>
